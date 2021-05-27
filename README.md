@@ -35,3 +35,9 @@ selenium과 chrome webdriver를 사용하여 웹크롤링을 사용하였고, gs
 ### 2-2. 기술설명
 
 파싱으로 가져온 데이터들의 사용승인일과 대지연면적 데이터를 가져오고, 기존 매물데이터들의 사용승인일과 대지연면적 데이터를 가져와서 일치여부를 확인한 후 2차원 배열에 해당 정보들을 담아 마지막에 google spread sheet에 업데이트한다. 
+
+
+
+## Chromedriver
+
+Chromedriver version과 사용중인 chrome의 version이 일치해야한다.
